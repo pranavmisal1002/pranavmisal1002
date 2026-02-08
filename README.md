@@ -28,7 +28,7 @@
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="45px" />
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="45px" />
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="45px" />
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="45px" />
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="45px" />
@@ -61,7 +61,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
   <a href="https://github.com/pranavmisal1002" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="45px" />
   </a>
 </p>
 
