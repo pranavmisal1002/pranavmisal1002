@@ -72,3 +72,5 @@
 **💬 "Automate intelligently. Monitor continuously. Scale with confidence." ☁️**
 
 -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavmisal1002&show_icons=true)
+
