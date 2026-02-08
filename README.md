@@ -18,31 +18,22 @@
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud & DevOps
+## 🛠️ Cloud & DevOps Toolset
+
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45px" />
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="45px" />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45px" />
 </div>
 
----
 
-### 🏗️ Infrastructure & Automation
-<div>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="50px" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50px" />
-</div>
-
----
-
-### 🖥️ Scripting & Tools
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" />
-</div>
 
 ---
 
@@ -72,5 +63,4 @@
 **💬 "Automate intelligently. Monitor continuously. Scale with confidence." ☁️**
 
 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavmisal1002&show_icons=true)
 
